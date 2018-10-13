@@ -1,0 +1,9 @@
+calculation\IntrinsicValue$1.class
+calculation\EvaluationRequest.class
+calculation\IntrinsicValue.class
+calculation\EvaluationContext.class
+clients\StockClient.class
+calculation\StockEvaluation.class
+clients\StockApi.class
+calculation\EvaluationResponse.class
+Stock.class
